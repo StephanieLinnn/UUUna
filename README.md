@@ -21,10 +21,8 @@
   <p>熱身 15x2 組間休息60s</p>
   <p>正式組10x4 組間休息160-180s</p>
   <p>B. 窄握滑輪下拉(單手) 12x3</p>
-  <p>C. Cable Hight roll</p>
-  <p>12-15x3</p>
-  <p>D.反向飛鳥</p>
-  <p>(10x1+20x1)x3</p>
+  <p>C.Cable Hight roll 12-15x3</p>
+  <p>D.反向飛鳥(10x1+20x1)x3</p>
   <hr>
 </body>
 </html>
