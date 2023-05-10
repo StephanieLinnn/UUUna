@@ -23,7 +23,7 @@
   <p>B. 窄握滑輪下拉(單手) 12x3</p>
   <p>C. Cable Hight roll</p>
   <p>12-15x3</p>
-  <p>反向飛鳥</p>
+  <p>D.反向飛鳥</p>
   <p>(10x1+20x1)x3</p>
   <hr>
 </body>
